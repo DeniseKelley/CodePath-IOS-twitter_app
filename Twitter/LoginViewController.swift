@@ -28,7 +28,7 @@ class LoginViewController: UIViewController {
         TwitterAPICaller.client?.login(url: myURL, success: {
                                         
                                         UserDefaults.standard.set(true, forKey: "userLoggedIn")
-        self.performSegue(withIdentifier: "LogInToHome", sender: self)}, failure: { Error in
+        self.performSegue(withIdentifier: "LoginToHome", sender: self)}, failure: { Error in
             print("Could Not log in")
             
         })
