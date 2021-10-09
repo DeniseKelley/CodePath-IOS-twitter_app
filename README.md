@@ -23,5 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-gif-maker(11)](https://user-images.githubusercontent.com/66845312/136633695-0e780521-9e4d-461e-b932-02f1d24633b6.gif)
+
+![ezgif com-gif-maker(13)](https://user-images.githubusercontent.com/66845312/136670250-f575ec48-a5e1-4c72-899e-201538471345.gif)
 
